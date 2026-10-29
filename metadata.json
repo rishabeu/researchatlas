@@ -1,0 +1,6 @@
+{
+  "name": "ResearchAtlas AI",
+  "description": "Evidence-grounded academic research paper analysis with methodological breakdowns, Mermaid architecture diagrams, research gaps, student project blueprints, and grounded document Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
